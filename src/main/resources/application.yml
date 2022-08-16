@@ -1,0 +1,14 @@
+server.port: 8080
+spring:
+ datasource:
+  url: 'jdbc:postgresql://localhost:5432/academia?useTimezone'
+  username: postgres
+  password: '1298'
+ jpa:
+  hibernate:
+   ddl-auto: update
+  properties:
+   hibernate:
+    jdbc:
+     lab:
+      non_contextual_creation: true
