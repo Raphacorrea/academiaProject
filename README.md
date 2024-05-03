@@ -1,6 +1,5 @@
 
-<p> Esse prjeto faz parte do<strong> Projeto Spring Data JPA na Prática</strong> oferecido pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong>no bootcamp Spring Framework</a>.<br>
-
+<p> Esse projeto faz parte do<strong> Projeto Spring Data JPA na Prática</strong> 
 
 <h2>
 Este projeto engloba
